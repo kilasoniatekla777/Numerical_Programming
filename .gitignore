@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+
+# Generated output
+AP3/normals_tangents_results/
+
+# Large data file (111MB, exceeds GitHub's 100MB limit)
+# Download from Kaggle: "Spotify Tracks Dataset" and place it in AP4/
+AP4/tracks.csv

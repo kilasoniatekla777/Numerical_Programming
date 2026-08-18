@@ -1,0 +1,31 @@
+EVAPORATION POND SIMULATION RESULTS
+============================================================
+
+
+IE_FP:
+  Final Temperature: 19.7599 °C
+  Final Salinity: 35.3077 g/L
+  Final Volume: 99.1285 m³
+  CPU Time: 0.0141 s
+  Avg Iterations: 2.00
+
+IE_Newton:
+  Final Temperature: 19.7599 °C
+  Final Salinity: 35.3077 g/L
+  Final Volume: 99.1285 m³
+  CPU Time: 0.0399 s
+  Avg Iterations: 2.00
+
+DIRK2_FP:
+  Final Temperature: 19.7576 °C
+  Final Salinity: 35.3078 g/L
+  Final Volume: 99.1281 m³
+  CPU Time: 0.0411 s
+  Avg Iterations: 4.00
+
+DIRK2_Newton:
+  Final Temperature: 19.7576 °C
+  Final Salinity: 35.3078 g/L
+  Final Volume: 99.1281 m³
+  CPU Time: 0.0930 s
+  Avg Iterations: 4.00
